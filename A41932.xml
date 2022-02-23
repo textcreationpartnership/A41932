@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the Duke of Schomberge's army giving an impartial account of the late bloody fight and engagement between the Irish papists and our English forces : with an account of men kill'd and wounded, together with a journal of the whole siege of Carrickfergus ... / written in a letter from Chester, directed to Mr. John Blackhall from on board the Mary galley at High-lake, August 31, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41932</idno>
+            <idno type="STC">Wing G1734</idno>
+            <idno type="STC">ESTC R28679</idno>
+            <idno type="EEBO-CITATION">10736631</idno>
+            <idno type="OCLC">ocm 10736631</idno>
+            <idno type="VID">45588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45588)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1403:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the Duke of Schomberge's army giving an impartial account of the late bloody fight and engagement between the Irish papists and our English forces : with an account of men kill'd and wounded, together with a journal of the whole siege of Carrickfergus ... / written in a letter from Chester, directed to Mr. John Blackhall from on board the Mary galley at High-lake, August 31, 1689.</title>
+               </titleStmt>
+               <extent>1 sheet, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed September 4. J.F."</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45588:1"/>
+            <pb facs="tcp:45588:1" rendition="simple:additions"/>
+            <head>Great NEWS from the Duke of Schomberge's Army: Giving an Impartial Account of the Late Bloody FIGHT and Engagement Between The <hi>Iriſh</hi> Papiſts and our <hi>Engliſh</hi> Forces: With an Account of Men kill'd and wounded. Together with a Journal of the whole Siege of <hi>Carrickfergus,</hi> and an Account of the Towns retaken ſince the Generals Arrival.</head>
+            <p>
+               <hi>Written in a Letter from</hi> Cheſter, <hi>directed to Mr.</hi> John Blackhall <hi>Citizen in</hi> London.</p>
+            <p>Licenſed <hi>September</hi> 4. <hi>J. F.</hi>
+            </p>
+            <p>
+               <hi>From on Board the</hi> Mary Galley <hi>at</hi> High-Lake, Auguſt 31. 1689.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Loving Brother,</salute>
+                  </opener>
+                  <p>I Writ to you from the <hi>Lough</hi> of <hi>Carrickfergus</hi> by a Frigot called the <hi>Greyhound,</hi> who was bound for <hi>Deptford,</hi> yet am in the mind that this may come firſt to your hand. In the other I gave you a full Account of our ſetting to Sea from this place the 9th Inſtant, and of our Arrival in the <hi>Lough</hi> of <hi>London-Derry,</hi> and the large Account of the Siege, and the ſtout Reſiſtance of the Beſieged, and our ſailing back to Port <hi>Ruſh,</hi> within three miles of <hi>Coulrain,</hi> where was three Regiments of <hi>James</hi>'s Men, but they left it upon the hearing of Coll. <hi>Kirks</hi> marching from <hi>London-Derry</hi> towards them.</p>
+                  <p>From thence we came to the <hi>Lough</hi> of <hi>Carrickfergus</hi> the 20th Inſtant, where after we had come to Anchor, we had Orders to weigh again, and to lie as near the Caſtle as poſſible we could, and to fire at it; which Orders came from Duke <hi>Schomberge,</hi> that left <hi>Belfaſt</hi> the ſame day to lay Siege to <hi>Carrickfergus,</hi> that by our firing he might with the leſs danger bring his Men nigh the Town to Encamp, and we with the <hi>Deptford</hi> Frigot, and five more fired ſo faſt for three or four hours time, that they in the Town durſt not come nigh a Gun that lay againſt us; and in all that time they only fired one ſhot from the Caſtle, which neither touched Ship nor Boat.</p>
+                  <p>By this time the Army was En<g ref="char:EOLhyphen"/>camped nigh the Town, and plied their buſineſs ſo well, that that night they Intrenched themſelves within 30 yards of the Wall; ſo they kept firing ſmall ſhot all that night, and ſome Bombs our Men ſent in which did conſiderable damage.</p>
+                  <p>Next day the Beſieged hung out a White Flag for Parley, and deſired 14 days time to ſend to <hi>Dublin</hi> to King <hi>James,</hi> to know whether they muſt de<g ref="char:EOLhyphen"/>liver it or no; but the General made anſwer, That he ſhould have buſineſs in <hi>Dublin</hi> within 14 days. Then at it again pelmel, our Armies great Guns plaid, but could do no hurt to the Caſtle; for you know it is a very ſtrong place; and ſo continued firing in the day time, and ſometimes throw<g ref="char:EOLhyphen"/>ing of Fire-balls, which ſet ſome houſes in the Town on fire, we loſing but ve<g ref="char:EOLhyphen"/>ry few Men all this while.</p>
+                  <p>The 27th. Inſtant they beat a parly again, which they had done the day before, but was not heard, the parly held for four hours, and it was gran<g ref="char:EOLhyphen"/>ted them to March out with their Arms and Cnapſacks on their Backs, which was ſuppoſed this gentle agree<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:45588:2"/>
+                     <pb facs="tcp:45588:2"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:45588:3" rendition="simple:additions"/>was made by reaſon of the ma<g ref="char:EOLhyphen"/>ny poor Proteſtants that they had Pri<g ref="char:EOLhyphen"/>ſoners in the Town and Caſtle.</p>
+                  <p>The next day being the 28th, there marched out a Regiment of <hi>Dutch</hi> be<g ref="char:EOLhyphen"/>fore them, and Captain <hi>Thomas Provo</hi> with thirty Horſe behind them to convey them paſt <hi>Lisburn,</hi> but in ſpite of him and his Horſe, the Coun<g ref="char:EOLhyphen"/>trey people begun to fall upon them, and took ſeveral of their Arms from them.</p>
+                  <p>Before they were a Mile from the Town, the <hi>Women</hi> likewiſe falling up<g ref="char:EOLhyphen"/>on their Trulls unrigg'd them of eve<g ref="char:EOLhyphen"/>ry thing they had on. I was juſt go<g ref="char:EOLhyphen"/>ing aſhore when they were marching away, where I ſaw one of the Towns Women come up to one <hi>Eveling,</hi> cry<g ref="char:EOLhyphen"/>ing out, You Whore, this is my <hi>Gown,</hi> off with it, another cryed, This is my <hi>Petticoat,</hi> off with it, a third with open Mouth ſwore the <hi>Smock</hi> was hers, and a little Girl cried the <hi>Hoods</hi> upon her Head was hers, they fell to it who ſhould get off their own firſt, that to tearing they went, that Gown, Pet<g ref="char:EOLhyphen"/>ticoat, Smock, Hoods, and all were not worth Two Pence by that time they had got them off, though they were good Clothes before, ſo that <hi>Eve<g ref="char:EOLhyphen"/>ling</hi> run about crying, <hi>O ye, O ye, up tage</hi> Mr. <hi>Dearmond.</hi> This I ſaw, and was very well pleaſed to ſee them in ſome part revenged of them for the great injury they had done them be<g ref="char:EOLhyphen"/>fore; beſides, we did ſuppoſe that by that time they paſt <hi>Lisburn,</hi> which you know is ſeven Miles from <hi>Belfaſt,</hi> they would have nothing left but their lives.</p>
+                  <p>So that now there's <hi>Derry</hi> ours, <hi>Coulrain</hi> ours, <hi>Carrickfergus</hi> ours, <hi>Bel<g ref="char:EOLhyphen"/>faſt</hi> ours, <hi>Lisburn, Hillsborough</hi> and <hi>Dromore</hi> ours, and all about <hi>Lurgan</hi> and <hi>Antrim</hi> ours, <hi>Eniskilling</hi> and <hi>Do<g ref="char:EOLhyphen"/>nagall</hi> ours; it's ſuppoſed we are bound for <hi>King-ſail</hi> next, from whence you may expect a true account of what<g ref="char:EOLhyphen"/>ever happens of moment.</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <q>
+               <p>YEſterday Morning Major Gene<g ref="char:EOLhyphen"/>ral <hi>Scravenmore</hi> went off for <hi>Ireland</hi> in the <hi>Navy</hi> Yatch, Captain <hi>Pet</hi> Commander, and this day are coming thence about 60 ſmall Veſſels into <hi>High-Lake,</hi> where the Duke of <hi>Bolton</hi>'s Regiment of Foot, (one Soul<g ref="char:EOLhyphen"/>dier whereof was this Week ſhot to death for mutining) and ſome Horſe are already Embarkt in order to Tranſportation.</p>
+               <p>We hear the <hi>French</hi> Fleet are gone into <hi>Bell Iſle,</hi> and the <hi>Engliſh</hi> to <hi>Torbay</hi> or <hi>Plimouth</hi> Sound.</p>
+               <p>In the Siege of <hi>Carrickfergus,</hi> we had on our ſide about 80 wounded, and ſome few kill'd.</p>
+            </q>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Advertiſements.</head>
+            <p>☞ There is juſt now reprinted <hi>Poetical Fragments:</hi> Heart imployment with God and it Self. The con<g ref="char:EOLhyphen"/>cordant-diſcord of a <hi>Broken healed Heart.</hi> Sorrowing-rejoycing, fearing-hoping, dying-living. Written partly for himſelf, and partly for near frends in Sickneſs and other deep Affliction by <hi>Rich. Baxter.</hi> Publiſhed for the uſe of the afflicted. The ſecond Edition, to which is now added the additional Poems, that were form<g ref="char:EOLhyphen"/>erly Printed by themſelves. The price of both parts was formerly Eighteen pence, but now both are ſold for One Shilling bound.</p>
+            <p>
+               <hi>The Tragedies of Sin</hi> contemplated in the ruine of the Angels <hi>&amp;c.</hi> [by <hi>Stephen Jay</hi> Rector of <hi>Chinner</hi>] in the County of <hi>Oxon.</hi>
+            </p>
+            <p>There is alſo now publiſht (in a large octavo) <hi>The Bloody Affizes</hi> or A compleat Hiſtory of the Lives, Actions, Tryals, Sufferings, Speeches, Deaths and Cha<g ref="char:EOLhyphen"/>racters of all thoſe <hi>Excellent perſons</hi> who fell in the Weſt of <hi>England</hi> and elſewhere, from the Death of Sir <hi>Edmund-bury Godfrey</hi> to this preſent time; with the Pictures of ſeveral of the chief of them in Copper Plates. To which is added the Life, Death and Cha<g ref="char:EOLhyphen"/>racter of <hi>George</hi> Lord <hi>Jefferies</hi> [Written by a perſon of great learning and piety. Printed by the order of ſeveral of their Relations.</p>
+            <p>
+               <hi>Reformed Religion or right Chriſtianity,</hi> deſcribed in its Excellency and Uſefulneſs in the life of man, giving an impartial account of a right Chriſtian in general, of a right Chriſtian Miniſter, of a right Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrate, of a right Chriſtian Subject, of a right Chriſtian Worſhip, of a right Chriſtian Parliament, of a right Chriſtian Soldier. Written by Mr. <hi>Barker Miniſter of the Goſpel in</hi> London. Price bound 1. <abbr>s.</abbr>
+            </p>
+            <p>
+               <hi>Early Piety</hi> exemplified in the Life and Death of Mr. <hi>Nathaniel Mather,</hi> who having become at the age of Nineteen an inſtance of more than <hi>common Learning and Virtue</hi> chang'd Earth for Heaven. <hi>Oct.</hi> 17. 1688. whereto are added ſome diſcourſes on the true nature, the great reward and the beſt reaſon of ſuch a walk with God, as he left a Pattern of the <hi>ſecond Edition</hi> with a Prefatory Epiſtle by Mr. <hi>Matthew Mead</hi> Price bound One Shilling.</p>
+            <p>
+               <hi>The Saints readineſs for their Lords coming,</hi> a Funeral Sermon Preached upon the Death of that faithful and laborious Servant, Mr. <hi>John Oakes,</hi> by <hi>Samuel Slater</hi> Miniſter of the Goſpel, price bound 1. <abbr>s.</abbr>
+            </p>
+            <p>Mr. <hi>Slaters</hi> Sermon preached to young men at their deſire, <hi>Decemb.</hi> 25. 1688. And publiſht at their requeſt price 6. <abbr>d.</abbr>
+            </p>
+            <p>
+               <hi>The Joy of Faith</hi> or a Treatiſe opening the true na<g ref="char:EOLhyphen"/>ture of faith it's loweſt Stature and Diſtinction from <hi>aſſurance</hi> with a Preliminary tract evidencing the divi<g ref="char:EOLhyphen"/>nity of the Sacred Scriptures by <hi>Samuel Lee. M. A.</hi>
+            </p>
+            <p>
+               <hi>A Hiſtory of the Iriſh Wars</hi> or an impartial account of the Life and Military actions of <hi>Richard</hi> Earl of <hi>Tyr<g ref="char:EOLhyphen"/>connel</hi> wherein <hi>(among other things)</hi> is related the Skir<g ref="char:EOLhyphen"/>miſhes Battels, Seiges and Remarkable Tranſactions which have happened in <hi>Ireland</hi> both before and ſince the <hi>late Kings landing</hi> there; Dedicated to the Officers in his Majeſties Army price 1 <abbr>s.</abbr> All Nine ſold by <hi>John Dunton.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Dunton</hi> at the <hi>Black Raven</hi> in the <hi>Poultrey.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
